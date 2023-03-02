@@ -21,3 +21,17 @@ ______
 <p align="center">
   <img src="/Taller_1/ImageComan/Punt2-2.png">
 </p>
+
+<p style="text-align: justify;">3. En este punto incialmente se crea un archivo entrada.in con difetentes archivos que sean de diferente extension, luego se ingresa a un shell la cual consiste en eliminar todos los archivos que tengan extension .sh y los demas los deja guardados en la carpeta denominada file_Salida, por ultimo se se lee el archivo salida.out y se listan los archivos que quedaron ya que no tenian extension .sh y por lo tanto no fueron eliminados, en las siguientes imagenes se observa lo antes indicado: </p>
+
+<p align="center">
+  <img src="/Taller_1/ImageComan/Punt3.png">
+  <img src="/Taller_1/ImageComan/Punt3-1.png">
+  <img src="/Taller_1/ImageComan/Punt3-2.png">
+</p>
+
+<p style="text-align: justify;">En esta imagen se podra visualizar el paso a paso del punto tres de una forma mas clara y organizada: </p>
+
+<p align="center">
+  <img src="/Taller_1/ImageComan/Punt3-3.png">
+</p>
