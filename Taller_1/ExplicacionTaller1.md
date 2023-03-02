@@ -35,3 +35,15 @@ ______
 <p align="center">
   <img src="/Taller_1/ImageComan/Punt3-3.png">
 </p>
+
+<p style="text-align: justify;">4. En este ultimo punto lo que se hace incialmente es tomar el archivo salida.out del anterior punto, es decir, del punto 3, luego de esto se debe pasar por una shell con el fin de que a cada archivo le agregue la extension -mv.txt, despues de realizar esta configuracion los archivos seran almacenados en un nuevo archivo de salida el cual luego se consultara y se listara los archivos que contiene con el fin de verificar que se realizo lo antes nombrado, en la siguiente imagen se observa lo anterior: </p>
+
+<p align="center">
+  <img src="/Taller_1/ImageComan/Punt4.png">
+</p>
+
+<p style="text-align: justify;">En esta imagen se podra visualizar el paso a paso del punto cuatro de una forma mas clara y organizada: </p>
+
+<p align="center">
+  <img src="/Taller_1/ImageComan/Punt4-1.png">
+</p>
