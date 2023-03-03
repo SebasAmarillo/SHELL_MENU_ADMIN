@@ -131,3 +131,20 @@ ___
 
 <p align="center">
   <img src="/Shell_Menú/ImageMenu/Opt7-1.PNG">
+</p>
+
+### <p align="justify"> **Opción 8)** </p>
+
+<p style="text-align: justify;">El usuario al seleccionar esta opción lo que hará es que se limpiará la pantalla y luego saldrá del menú de administración con éxito.</p>
+
+<p align="center">
+  <img src="/Shell_Menú/ImageMenu/Opt8.PNG">
+</p>
+
+### <p align="justify"> **Opción *)** </p>
+
+<p style="text-align: justify;">Dentro del case inicial se pone un *) para que cuando la persona ingrese otro número diferente a los que ya se mostraron previamente en el menú principal, se le indicara en pantalla que Acción invalida por favor revisar las opciones y deberá ingresar una opción valida en el menú.</p>
+
+<p align="center">
+  <img src="/Shell_Menú/ImageMenu/Opt9.PNG">
+</p>
