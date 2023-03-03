@@ -72,3 +72,25 @@ ___
 <p align="center">
   <img src="/Shell_Menú/ImageMenu/Opt4.PNG">
 </p>
+
+### <p align="justify"> **Opción 5)** </p>
+
+<p style="text-align: justify;">En esta opción el usuario podrá realizar toda la configuración necesaria para los permisos de Firewall, se creó un case dentro el cual se le indican al usuario las siguientes opciones donde puede seleccionar la que desea realizar:</p>
+
+1. Habilitar servicio: Si es seleccionada se ejecutará un comando el cual habilitará el servicio de firewall.
+2. Conocer el estado del firewall: Si es seleccionada como lo indica mostrara el estado actual del firewall.
+3. Habilitar puerto TCP: Si es seleccionada el usuario deberá ingresar el puerto que desea habilitar.
+4. Habilitar puerto UDP: Si es seleccionada el usuario deberá ingresar el puerto que desea habilitar.
+5. Habilitar rango puerto TCP: Si es seleccionada se habilitará los puertos 30000:32767 configurados por defecto. 
+6. Habilitar rango puerto UDP: Si es seleccionada se habilitará los puertos 30000:32767 configurados por defecto.
+7. Probar con curl: Si es seleccionada el usuario deberá ingresar la IP y el puerto con el cual desea realizar la prueba.
+8. Volver al menú principal: Si es seleccionada entonces limpiara la pantalla y mostrara nuevamente el menú principal.
+
+<p style="text-align: justify;">Además de esto dentro del case se pone un *) para que cuando la persona ingrese otro número diferente a los que ya se mostraron previamente, se le indicara en pantalla que la opción ingresada es invalida.</p>
+
+<p align="center">
+  <img src="/Shell_Menú/ImageMenu/Opt5.PNG">
+</p>
+
+<p align="center">
+  <img src="/Shell_Menú/ImageMenu/Opt5-1.PNG">
