@@ -40,3 +40,22 @@ ___
 <p align="center">
   <img src="/Shell_Menú/ImageMenu/Opt2.PNG">
 </p>
+
+### <p align="justify"> **Opción 3)** </p>
+
+<p style="text-align: justify;">En esta opción se le indicara al usuario que podrá modificar la IP del servidor, por lo tanto, primero se mostrara la IP actual del servidor, luego se mostraran las siguientes opciones de las cuales puede seleccionar la que desea realizar:</p>
+
+1. Instalar net-tolos para poder realizar las configuraciones: Se recomienda que el usuario verifique si tiene net-tolos instalado, ya que sin ello no le permitirá realizar ninguna configuración, por lo tanto, se brinda la opción de que lo pueda instalar. 
+2. Modificar IP de una interfaz de red: Si es seleccionada primero se le indicara al usuario que ingrese el nombre de la interfaz de red que desea modificar, luego que ingrese el nuevo número de IP, luego la máscara de la IP, finalmente se le indicara que se realizó el cambio de la IP y se le mostrara la configuración realizada esa interfaz de red. 
+3. Configurar interfaz de Red dinámica: Si es seleccionada esta configuración hará que la IP del servidor sea dinámica dependiendo de la red.
+4. Volver al menú principal: Si es seleccionada entonces limpiara la pantalla y mostrara nuevamente el menú principal.
+
+<p style="text-align: justify;">Además de esto dentro del case se pone un *) para que cuando la persona ingrese otro número diferente a los que ya se mostraron previamente, se le indicara en pantalla que la opción ingresada es invalida.</p>
+
+<p align="center">
+  <img src="/Shell_Menú/ImageMenu/Opt3.PNG">
+</p>
+
+<p align="center">
+  <img src="/Shell_Menú/ImageMenu/Opt3-1.PNG">
+</p>
