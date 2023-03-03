@@ -59,3 +59,16 @@ ___
 <p align="center">
   <img src="/Shell_Menú/ImageMenu/Opt3-1.PNG">
 </p>
+
+### <p align="justify"> **Opción 4)** </p>
+
+<p style="text-align: justify;">En esta opción se le mostrara las siguientes opciones al usuario para que pueda ingresar y realizar la respectiva configuración, las opciones son:</p>
+
+1. Configurar tabla Host: Si es seleccionada el usuario ingresara al archivo host, donde podrá realizar la configuración que desea, asi como eliminar, editar o agregar los hosts que desee, luego de realizar la configuración y salir del archivo se le mostrara al usuario lo que acaba de editar. 
+2. Volver al menú principal: Si es seleccionada entonces limpiara la pantalla y mostrara nuevamente el menú principal.
+
+<p style="text-align: justify;">Además de esto dentro del case se pone un *) para que cuando la persona ingrese otro número diferente a los que ya se mostraron previamente, se le indicara en pantalla que la opción ingresada es invalida.</p>
+
+<p align="center">
+  <img src="/Shell_Menú/ImageMenu/Opt4.PNG">
+</p>
