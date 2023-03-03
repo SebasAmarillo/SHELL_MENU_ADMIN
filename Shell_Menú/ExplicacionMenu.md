@@ -115,3 +115,19 @@ ___
 
 <p align="center">
   <img src="/Shell_Menú/ImageMenu/Opt6-1.PNG">
+
+### <p align="justify"> **Opción 7)** </p>
+
+<p style="text-align: justify;">En esta opción el usuario podrá realizar todas las configuraciones necesarias para proxy, inicialmente se le mostrara al usuario un ejemplo de la configuración que se debe realizar en proxy y se le indica que para poder configurar copiar esa configuración para después registrarla al ingresar al archivo de proxy, de igual forma se tiene un case que muestra las siguientes opciones:</p>
+
+1. Configurar Proxy: Si es seleccionada el usuario ingresara al archivo .bashrc, donde podrá realizar la configuración que desea, asi como eliminar, editar o agregar las configuraciones proxy que desee, luego de realizar la configuración y salir del archivo se le mostrara al usuario lo que acaba de editar.
+2. Volver al menú principal: Si es seleccionada entonces limpiara la pantalla y mostrara nuevamente el menú principal.
+
+<p style="text-align: justify;">Además de esto dentro del case se pone un *) para que cuando la persona ingrese otro número diferente a los que ya se mostraron previamente, se le indicara en pantalla que la opción ingresada es invalida.</p>
+
+<p align="center">
+  <img src="/Shell_Menú/ImageMenu/Opt7.PNG">
+</p>
+
+<p align="center">
+  <img src="/Shell_Menú/ImageMenu/Opt7-1.PNG">
