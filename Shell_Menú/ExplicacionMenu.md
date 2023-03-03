@@ -14,7 +14,9 @@ ___
 
 ## <p align="center"> **OPCIONES DE MENU Y SU FUNCIÓN** </p>
 
-<p style="text-align: justify;">Opción 1) en esta ítem primero se le indicara al usuario el nombre actual del servidor, luego se le desplegara una serie de opciones que puede realizar esto se hizo por medio de un case, las opciones son:</p>
+### <p align="justify"> **Opción 1)** </p>
+
+<p style="text-align: justify;">En esta ítem primero se le indicara al usuario el nombre actual del servidor, luego se le desplegara una serie de opciones que puede realizar esto se hizo por medio de un case, las opciones son:</p>
 
 1. Cambiar nombre del servidor: Al seleccionar esta opción se le solicitara el nuevo nombre del servidor y luego se le indicara que el cambio del nombre fue exitoso y se evidenciara el nuevo nombre en el servidor.
 2. Volver al menú principal: Si es seleccionada entonces limpiara la pantalla y mostrara nuevamente el menú principal.
