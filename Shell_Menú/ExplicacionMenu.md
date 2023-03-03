@@ -35,7 +35,7 @@ ___
 
 <p style="text-align: justify;">En esta opción inicialmente se le mostrara en pantalla al usuario los discos actuales de su máquina, luego se le solicitara que ingre el nombre del disco que desea partir o configurar, una vez ingresado el disco la terminal le mostrara las opciones que puede realizar y ya el usuario se encargara de ingresar la letra o comando del proceso que desea realizar.</p>
 
-<p style="text-align: justify;"> **Advertencia se debe tener cuidado con las configuraciones que se van a realizar, ya que podría ocasionarse un daño en la máquina.** </p>
+##### <p style="text-align: justify;"> **Advertencia se debe tener cuidado con las configuraciones que se van a realizar, ya que podría ocasionarse un daño en la máquina.** </p>
 
 <p align="center">
   <img src="/Shell_Menú/ImageMenu/Opt2.PNG">
