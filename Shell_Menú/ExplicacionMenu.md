@@ -16,7 +16,7 @@ ___
 
 ### <p align="justify"> **Opción 1)** </p>
 
-<p style="text-align: justify;">En esta ítem primero se le indicara al usuario el nombre actual del servidor, luego se le desplegara una serie de opciones que puede realizar esto se hizo por medio de un case, las opciones son:</p>
+<p style="text-align: justify;">En esta opción primero se le indicara al usuario el nombre actual del servidor, luego se le desplegara una serie de opciones que puede realizar esto se hizo por medio de un case, las opciones son:</p>
 
 1. Cambiar nombre del servidor: Al seleccionar esta opción se le solicitara el nuevo nombre del servidor y luego se le indicara que el cambio del nombre fue exitoso y se evidenciara el nuevo nombre en el servidor.
 2. Volver al menú principal: Si es seleccionada entonces limpiara la pantalla y mostrara nuevamente el menú principal.
@@ -29,4 +29,14 @@ ___
 
 <p align="center">
   <img src="/Shell_Menú/ImageMenu/Opt1-1.PNG">
+</p>
+
+### <p align="justify"> **Opción 2)** </p>
+
+<p style="text-align: justify;">En esta opción inicialmente se le mostrara en pantalla al usuario los discos actuales de su máquina, luego se le solicitara que ingre el nombre del disco que desea partir o configurar, una vez ingresado el disco la terminal le mostrara las opciones que puede realizar y ya el usuario se encargara de ingresar la letra o comando del proceso que desea realizar.</p>
+
+<p style="text-align: justify;"> **Advertencia se debe tener cuidado con las configuraciones que se van a realizar, ya que podría ocasionarse un daño en la máquina.** </p>
+
+<p align="center">
+  <img src="/Shell_Menú/ImageMenu/Opt2.PNG">
 </p>
