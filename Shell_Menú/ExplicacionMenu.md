@@ -94,3 +94,24 @@ ___
 
 <p align="center">
   <img src="/Shell_Menú/ImageMenu/Opt5-1.PNG">
+
+### <p align="justify"> **Opción 6)** </p>
+
+<p style="text-align: justify;">En esta opción el usuario podrá realizar todas las configuraciones que desee en el DNS server, para esto se tiene un case, el cual tendrá las siguientes opciones donde el usuario podrá seleccionar una:</p>
+
+1. Instalar resolvconf: Se recomienda que el usuario verifique si tiene resolvconf instalado, ya que sin ello no le permitirá realizar ninguna configuración, por lo tanto, se brinda la opción de que lo pueda instalar.
+2. Habilitar servicio DNS: Si es seleccionada se ejecutará un comando el cual habilitará el servicio DNS.
+3. Detener servicio DNS: Si es seleccionada se ejecutará un comando el cual detendrá el servicio DNS.
+4. Estado del servicio DNS: Si es seleccionada mostrara el estado actual del servicio DNS.
+5. Reiniciar servicio DNS: Si es seleccionada se reiniciará el servicio DNS.
+6. Editar DNS: Si es seleccionada el usuario ingresara al archivo resolv.conf, donde podrá realizar la configuración que desea, luego de realizar la configuración y salir del archivo se le mostrara al usuario lo que acaba de editar.
+7. Volver al menú principal: Si es seleccionada entonces limpiara la pantalla y mostrara nuevamente el menú principal.
+
+<p style="text-align: justify;">Además de esto dentro del case se pone un *) para que cuando la persona ingrese otro número diferente a los que ya se mostraron previamente, se le indicara en pantalla que la opción ingresada es invalida.</p>
+
+<p align="center">
+  <img src="/Shell_Menú/ImageMenu/Opt6.PNG">
+</p>
+
+<p align="center">
+  <img src="/Shell_Menú/ImageMenu/Opt6-1.PNG">
