@@ -141,10 +141,10 @@ ___
   <img src="/Shell_Menú/ImageMenu/Opt8.PNG">
 </p>
 
-### <p align="justify"> **Opción *)** </p>
+### <p align="justify"> **Opción Invalida)** </p>
 
 <p style="text-align: justify;">Dentro del case inicial se pone un *) para que cuando la persona ingrese otro número diferente a los que ya se mostraron previamente en el menú principal, se le indicara en pantalla que Acción invalida por favor revisar las opciones y deberá ingresar una opción valida en el menú.</p>
 
 <p align="center">
-  <img src="/Shell_Menú/ImageMenu/Opt9.PNG">
+  <img src="/Shell_Menú/MenúImagen/ Opc9..PNG">
 </p>
