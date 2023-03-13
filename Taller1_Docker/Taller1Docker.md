@@ -38,3 +38,51 @@ ______
 <p align="center">
   <img src="/Taller1_Docker/ImageCuentas/Cu7.png">
 </p>
+
+<p style="text-align: justify;">Luego se debe clonar el repositorio con el siguiente comando.</p>
+
+<p align="center">
+  <img src="/Taller1_Docker/ImageCuentas/Cu8.png">
+</p>
+
+<p style="text-align: justify;">Donde la url será la que se toma del git de la parte de SSH.</p>
+
+<p align="center">
+  <img src="/Taller1_Docker/ImageCuentas/Cu9.png">
+</p>
+
+<p style="text-align: justify;">Luego de clonar el repositorio se ingresa al repositorio clonado.</p>
+
+<p align="center">
+  <img src="/Taller1_Docker/ImageCuentas/Cu10.png">
+</p>
+
+<p style="text-align: justify;">Después de ingresar se da clic izquierdo en el archivo README.md y le damos abrir con visual studio code.</p>
+
+<p align="center">
+  <img src="/Taller1_Docker/ImageCuentas/Cu11.png">
+</p>
+
+<p style="text-align: justify;">Una vez se abre el archivo anterior podremos hacer las modificaciones necesarias con el fin de subir toda la información al repositorio.</p>
+
+<p align="center">
+  <img src="/Taller1_Docker/ImageCuentas/Cu12.png">
+</p>
+
+<p style="text-align: justify;">Después de agregar toda la información o si desea subirse alguna actualización o modificación al Git hub, se de hacer de la siguiente manera:</p>  
+
+Se ejecutan estos comandos con el fin de que los cambios queden con nuestro usuario 
+- git config --global core.autocrlf false
+- git config --global user.name "Angel Amarillo"
+- git config --global user.email angelseb1799@gmail.com  
+
+Luego se ejecutan los siguientes comandos con el fin de subir los cambios completos 
+- git add .
+- git commit -m "Acá se debe escribir el comentario con el cual se va a subir los cambios"
+
+<p style="text-align: justify;">En rama debe ir el nombre de la rama donde se subirá el archivo
+git push origin rama.</p>
+
+<p align="center">
+  <img src="/Taller1_Docker/ImageCuentas/Cu13.png">
+</p>
