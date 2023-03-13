@@ -86,3 +86,31 @@ git push origin rama.</p>
 <p align="center">
   <img src="/Taller1_Docker/ImageCuentas/Cu13.png">
 </p>
+
+<p style="text-align: justify;">Luego si vamos a la página principal de git se puede observar que se subió el cambio exitosamente.</p>
+
+<p align="center">
+  <img src="/Taller1_Docker/ImageCuentas/Cu14.png">
+</p>
+
+<p style="text-align: justify;">De esta forma se puede realizar los cambios necesarios de forma local y luego subirlos al repositorio en git hub.</p>
+<p style="text-align: justify;">De igual forma se cuenta con una Shell la cual nos permite realizar la clona y actualización de los repositorios de forma más automatizada el código es el que se muestra a continuación.</p>
+
+<p align="center">
+  <img src="/Taller1_Docker/ImageCuentas/Cu15.png">
+  <img src="/Taller1_Docker/ImageCuentas/Cu16.png">
+  <img src="/Taller1_Docker/ImageCuentas/Cu17.png">
+</p>
+
+<p style="text-align: justify;">Ahora crearemos una cuenta en docker para ellos ingresamos primero al siguiente link, https://hub.docker.com/, luego damos clic en registrarnos ingresando nuestro usuario, correo electrónico de preferencia y una contraseña segura.</p>
+
+<p align="center">
+  <img src="/Taller1_Docker/ImageCuentas/Cu18.png">
+</p>
+
+<p style="text-align: justify;">Luego de ingresar observaremos la siguiente pantalla donde tendremos la posibilidad de buscar las imágenes que necesitas en el buscador y luego descargarlas, lo mismo que ya podríamos hacer uso del docker, se puede crear repositorios, ingresando el nombre del mismo también.</p>
+
+<p align="center">
+  <img src="/Taller1_Docker/ImageCuentas/Cu19.png">
+  <img src="/Taller1_Docker/ImageCuentas/Cu20.png">
+</p>
