@@ -13,10 +13,9 @@ ______
 
 <p style="text-align: justify;">Luego de realizar estos cambios, se deben guardar y subir al repositorio los cuales quedaran en la nueva rama denominada docker en la carpeta taller 2, recordar que para realizar estos pasos se debe realizar la clonación del repositorio en la máquina.</p>
 
-<p style="text-align: justify;">Una vez subido los cambios y despues de haberse ejecutado la opción de instalar docker en la máquina, para verificar que quedo correctamente instala de deben ejecutar los siguientes comandos que nos mostraran la versión del docker y docker compose.</p>
+<p style="text-align: justify;">Una vez subido los cambios y despues de haberse ejecutado la opción de instalar docker en la máquina, para verificar que quedo correctamente instalada se deben ejecutar los siguientes comandos que nos mostraran la versión del docker y docker compose.</p>  
 
-<p align="center">
-  <img src="/Taller2_Docker/ImageMenuDocker/Do4.png">
-</p>
+- docker --version  
+- docker-compose --version
 
 <p style="text-align: justify;">De esta forma vemos que quedo instalado docker y docker compose en nuestras maquinas.</p>
